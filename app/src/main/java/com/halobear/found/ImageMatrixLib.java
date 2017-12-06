@@ -13,7 +13,7 @@ import android.graphics.Matrix;
  */
 public class ImageMatrixLib {
     /**
-     * 通过图片矩阵信息分析当前角度，缩放，位置
+     * 通过图片矩阵信息分析当前角度，缩放，位置（2D）
      * @param matrix 图片矩阵信息
      */
     private void logInfo(Matrix matrix){
